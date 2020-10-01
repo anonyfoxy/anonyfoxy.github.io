@@ -11,10 +11,12 @@ body{
 }
 
 #userPhoto{
-    width: 714px;
-    height: 357px;
+    max-width: 714px;
+    width: auto;
+    max-height: 357px;
+    height: auto;
     display: block;
-    margin: 35px auto 20px;
+    margin: 27px auto;
 }
 
 #userName{
